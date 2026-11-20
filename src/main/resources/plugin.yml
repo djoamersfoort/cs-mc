@@ -1,0 +1,5 @@
+name: CS-MC
+version: '${version}'
+
+main: nl.djoleden.mc.cs.csmc
+api-version: '26.1'
